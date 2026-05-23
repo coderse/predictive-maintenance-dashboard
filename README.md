@@ -19,6 +19,20 @@ It is designed as a portfolio/demo artifact, not a production monitoring system.
 - Bearing business impact and maintenance urgency summary
 - Language switcher: English, German, Turkish
 
+## Screenshots
+
+### NASA Fleet Monitoring
+
+![NASA Fleet Monitoring](docs/screenshots/nasa-overview.png)
+
+### ML Pipeline and Fleet Risk Timeline
+
+![ML Pipeline and Fleet Risk Timeline](docs/screenshots/nasa-pipeline-risk.png)
+
+### Bearing Anomaly Detection
+
+![Bearing Anomaly Detection](docs/screenshots/bearing-anomaly.png)
+
 ## Run Locally
 
 ```bash
