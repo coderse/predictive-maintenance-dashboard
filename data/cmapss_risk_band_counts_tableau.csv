@@ -1,0 +1,17 @@
+scenario,risk_band,cycle_rows
+FD001,Critical,3100
+FD001,Healthy,8031
+FD001,High,3000
+FD001,Watch,6500
+FD002,Critical,8060
+FD002,Healthy,20999
+FD002,High,7800
+FD002,Watch,16900
+FD003,Critical,3100
+FD003,Healthy,12120
+FD003,High,3000
+FD003,Watch,6500
+FD004,Critical,7719
+FD004,Healthy,29875
+FD004,High,7470
+FD004,Watch,16185

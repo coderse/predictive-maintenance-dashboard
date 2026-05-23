@@ -1,0 +1,5 @@
+scenario,scenario_description,conditions,fault_modes,engines,avg_life_cycles,min_life_cycles,max_life_cycles
+FD001,"Sea level, HPC degradation",1 operating condition,1 fault mode,100,206.31,128,362
+FD002,"Multiple operating conditions, HPC degradation",6 operating conditions,1 fault mode,260,206.76538461538462,128,378
+FD003,"Sea level, HPC and fan degradation",1 operating condition,2 fault modes,100,247.2,145,525
+FD004,"Multiple operating conditions, HPC and fan degradation",6 operating conditions,2 fault modes,249,245.97991967871485,128,543
